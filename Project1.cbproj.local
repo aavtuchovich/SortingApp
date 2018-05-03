@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018.04.28 22:23:37.592.cpp,C:\Users\Администратор\Documents\RAD Studio\Projects\Unit1.cpp=D:\SortingApp\Unit1.cpp</Transaction>
+    <Transaction>2018.04.28 22:23:37.592.h,C:\Users\Администратор\Documents\RAD Studio\Projects\Unit1.h=D:\SortingApp\Unit1.h</Transaction>
+    <Transaction>2018.04.28 22:23:37.592.dfm,C:\Users\Администратор\Documents\RAD Studio\Projects\Unit1.dfm=D:\SortingApp\Unit1.dfm</Transaction>
+    <Transaction>2018.04.28 22:23:38.515.cbproj,C:\Users\Администратор\Documents\RAD Studio\Projects\Project1.cbproj=D:\SortingApp\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
